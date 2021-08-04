@@ -1,6 +1,6 @@
 ## Hyunjin Park(hjp7310)'s Profile
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hjp7310)](https://github.com/hjp7310)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%ED%98%84%EC%A7%84-%EB%B0%95-512b7b215/)](https://www.linkedin.com/in/%ED%98%84%EC%A7%84-%EB%B0%95-512b7b215/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hjp7310/)](https://www.linkedin.com/in/hjp7310/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjp7310@gmail.com)](mailto:hjp7310@gmail.com)
 
 ### Tech Stack
